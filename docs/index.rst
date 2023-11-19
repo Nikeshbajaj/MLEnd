@@ -25,6 +25,7 @@ Links::
   :alt: PyPI - Downloads
 
 .. important::
+    
     Version: 1.0.0.2 | Released on 14 Nov 2023
     
 
