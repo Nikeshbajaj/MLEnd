@@ -10,6 +10,7 @@ Links::
 
 .. image:: https://MLEndDatasets.github.io/assets/imgs/mlend_logo.png
  :width: 400px
+ :target: https://MLEndDatasets.github.io/
 
 <br>
 
