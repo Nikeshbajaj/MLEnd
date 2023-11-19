@@ -8,7 +8,8 @@ Links::
   *  **[PyPi - project](https://pypi.org/project/mlend/)** 
   *  _ **Installation:** [pip install mlend](https://pypi.org/project/mlend/)
 
-.. image:: https://raw.githubusercontent.com/Nikeshbajaj/spkit/master/figures/cwt_ex0.jpg
+.. image:: https://MLEndDatasets.github.io/assets/imgs/mlend_logo.png
+ :width: 400px
 
 
 .. image:: https://readthedocs.org/projects/mlend/badge/?version=latest
