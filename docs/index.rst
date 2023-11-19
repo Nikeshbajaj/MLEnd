@@ -11,6 +11,7 @@ Links::
 .. image:: https://MLEndDatasets.github.io/assets/imgs/mlend_logo.png
  :width: 400px
 
+<br>
 
 .. image:: https://readthedocs.org/projects/mlend/badge/?version=latest
   :target: https://mlend.readthedocs.io/en/latest/
@@ -30,7 +31,7 @@ Links::
 :Authors:
     Nikesh Bajaj,
     Jesús Requena Carrión
-:Home: https://https://MLEndDatasets.github.io
+:Home: https://MLEndDatasets.github.io
 
 
 
