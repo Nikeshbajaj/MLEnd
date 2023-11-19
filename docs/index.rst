@@ -24,24 +24,52 @@ update with pip
 pip install mlend --upgrade
 ```
 
+Spoken Numerals
+=======
+
 
 Download data
 -----
                         
 ```
 import mlend
-from mlend import download_spoken_numerals, spoken_numerals_readfiles
+from mlend import download_spoken_numerals, spoken_numerals_load
 
-
-datadir = download_spoken_numerals(save_to = '../Data/MLEnd', subset = {},verbose=1,overwrite=False)
+subset = {'Numeral':[1,100],'Intonation':['neutral']}
+datadir = download_spoken_numerals(save_to = '../MLEnd', 
+                                   subset = subset,verbose=1,overwrite=False)
 
 ```
 
-Create Training and Testing Sets
+
+Download full dataset
+To download full dataset, use empty subset, as in following piece of code:
+
+```
+import mlend
+from mlend import download_spoken_numerals, spoken_numerals_load
+
+subset = {}
+datadir = download_spoken_numerals(save_to = '../MLEnd', 
+                                   subset = subset,verbose=1,overwrite=False)
+```
+
+
+
+Load the Data and benchmark sets
 -----
                         
 ```
-TrainSet, TestSet, MAPs = spoken_numerals_readfiles(datadir_main = datadir, train_test_split = 'Benchmark_B', verbose=1,encode_labels=True)
+import mlend
+from mlend import download_spoken_numerals, spoken_numerals_load
+
+subset = {'Numeral':[1,100],'Intonation':['neutral']}
+datadir = download_spoken_numerals(save_to = '../MLEnd', 
+                                   subset = subset,verbose=1,overwrite=False)
+
+TrainSet, TestSet, MAPs = spoken_numerals_load(datadir_main = datadir, 
+                             train_test_split = 'Benchmark_A',
+                              verbose=1,encode_labels=True)
 
 ```
 
