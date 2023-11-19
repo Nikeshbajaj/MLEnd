@@ -1,29 +1,34 @@
-# MLEnd Datasets
+MLEnd Datasets - Documentation!
+===================
 
 ### Links: **[Homepage](https://MLEndDatasets.github.io)** | **[Documentation](https://mlend.readthedocs.io/)** | **[Github](https://github.com/MLEndDatasets)**  |  **[PyPi - project](https://pypi.org/project/mlend/)** |     _ **Installation:** [pip install mlend](https://pypi.org/project/mlend/)
 -----
 
 -----
 
-## Installation
+Installation
+-----
 
 **Requirement**:  numpy, matplotlib, scipy.stats, spkit
 
-### with pip
+with pip
+-----
 
 ```
 pip install mlend
 ```
 
-### update with pip
-
+update with pip
+-----
+                        
 ```
 pip install mlend --upgrade
 ```
 
 
-## Download data
-
+Download data
+-----
+                        
 ```
 import mlend
 from mlend import download_spoken_numerals, spoken_numerals_readfiles
@@ -33,8 +38,9 @@ datadir = download_spoken_numerals(save_to = '../Data/MLEnd', subset = {},verbos
 
 ```
 
-## Create Training and Testing Sets
-
+Create Training and Testing Sets
+-----
+                        
 ```
 TrainSet, TestSet, MAPs = spoken_numerals_readfiles(datadir_main = datadir, train_test_split = 'Benchmark_B', verbose=1,encode_labels=True)
 
@@ -43,7 +49,9 @@ TrainSet, TestSet, MAPs = spoken_numerals_readfiles(datadir_main = datadir, trai
 
 
 
-# Contacts:
+Contacts:
+-----
+                        
 * **Jesús Requena Carrión**
 * Queen Mary University of London
 
