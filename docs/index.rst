@@ -1,7 +1,12 @@
 MLEnd Datasets - Documentation!
 ===================
 
-Links: **[Homepage](https://MLEndDatasets.github.io)** | **[Documentation](https://mlend.readthedocs.io/)** | **[Github](https://github.com/MLEndDatasets)**  |  **[PyPi - project](https://pypi.org/project/mlend/)** |     _ **Installation:** [pip install mlend](https://pypi.org/project/mlend/)
+Links::
+  *  **[Homepage](https://MLEndDatasets.github.io)** 
+  *  **[Documentation](https://mlend.readthedocs.io/)**
+  *  **[Github](https://github.com/MLEndDatasets)**
+  *  **[PyPi - project](https://pypi.org/project/mlend/)** 
+  *  _ **Installation:** [pip install mlend](https://pypi.org/project/mlend/)
 
 .. image:: https://raw.githubusercontent.com/Nikeshbajaj/spkit/master/figures/cwt_ex0.jpg
 
