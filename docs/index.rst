@@ -388,8 +388,8 @@ API
 
 
 
-Contacts:
------
+Contacts us:
+============
                         
 * **Jesús Requena Carrión**
 * Queen Mary University of London
@@ -397,5 +397,7 @@ Contacts:
 * **Nikesh Bajaj**
 * Queen Mary University of London
 * n.bajaj[AT]qmul.ac.uk, n.bajaj[AT]imperial[dot]ac[dot]uk
+
+* About us:  https://mlenddatasets.github.io/aboutus
 
 ______________________________________
