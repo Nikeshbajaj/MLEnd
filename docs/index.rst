@@ -223,7 +223,7 @@ After downloading partial or full dataset, mlend allows you to load the dataset 
 
 
 MLEnd Happiness
-=======
+=====================
 
 Download dataset
 ------------------------
@@ -373,7 +373,7 @@ Downloding might raise HTTPError, if any of the image file, part of subset selec
 
 
 API
-----------
+=======
 
 .. toctree::
    :maxdepth: 2
