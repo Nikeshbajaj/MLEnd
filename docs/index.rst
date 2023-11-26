@@ -1,30 +1,6 @@
 MLEnd Datasets - Documentation!
 ===================
 
-..
-  
-   *  **Homepage :** https://MLEndDatasets.github.io
-   *  **Documentation:** https://mlend.readthedocs.io
-   *  **Github:** https://github.com/MLEndDatasets
-   *  **PyPi - project:** https://pypi.org/project/mlend
-   *  **Installation:** pip install mlend - 
-
-Links
------
-  
-
-:**Homepage**:
-   https://MLEndDatasets.github.io
-:**Documentation**:
-   https://MLEnd.readthedocs.io
-:**Github**:
-   https://github.com/MLEndDatasets
-:**PyPi - project**:
-   https://pypi.org/project/mlend
-:**Installation**:
-   pip install mlend - https://pypi.org/project/mlend
-
-
 .. image:: https://MLEndDatasets.github.io/assets/imgs/mlend_logo.png
  :width: 400px
  :align: center
@@ -43,6 +19,8 @@ Links
    :target: https://pypi.python.org/pypi/mlend
    :alt: PyPI - Downloads
 
+-------
+
 .. important:
     Version: 1.0.0.2 | Released on 14 Nov 2023
 
@@ -52,6 +30,19 @@ Links
     Jesús Requena Carrión
 :Home: https://MLEndDatasets.github.io
 
+
+**Links**
+
+:**Homepage**:
+   https://MLEndDatasets.github.io
+:**Documentation**:
+   https://MLEnd.readthedocs.io
+:**Github**:
+   https://github.com/MLEndDatasets
+:**PyPi - project**:
+   https://pypi.org/project/mlend
+:**Installation**:
+   pip install mlend - https://pypi.org/project/mlend
 
 
 Installation
