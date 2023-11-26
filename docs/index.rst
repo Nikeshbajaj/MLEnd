@@ -1,18 +1,36 @@
 MLEnd Datasets - Documentation!
 ===================
 
-Links::
-  *  **[Homepage](https://MLEndDatasets.github.io)** 
-  *  **[Documentation](https://mlend.readthedocs.io/)**
-  *  **[Github](https://github.com/MLEndDatasets)**
-  *  **[PyPi - project](https://pypi.org/project/mlend/)** 
-  *  **Installation:** [pip install mlend](https://pypi.org/project/mlend/)
+..
+  
+   *  **Homepage :** https://MLEndDatasets.github.io
+   *  **Documentation:** https://mlend.readthedocs.io
+   *  **Github:** https://github.com/MLEndDatasets
+   *  **PyPi - project:** https://pypi.org/project/mlend
+   *  **Installation:** pip install mlend - 
+
+Links
+-----
+  
+
+:**Homepage**:
+   https://MLEndDatasets.github.io
+:**Documentation**:
+   https://MLEnd.readthedocs.io
+:**Github**:
+   https://github.com/MLEndDatasets
+:**PyPi - project**:
+   https://pypi.org/project/mlend
+:**Installation**:
+   pip install mlend - https://pypi.org/project/mlend
+
 
 .. image:: https://MLEndDatasets.github.io/assets/imgs/mlend_logo.png
  :width: 400px
+ :align: center
  :target: https://MLEndDatasets.github.io/
 
-<br>
+
 
 .. image:: https://readthedocs.org/projects/mlend/badge/?version=latest
   :target: https://mlend.readthedocs.io/en/latest/
