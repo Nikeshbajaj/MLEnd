@@ -381,6 +381,9 @@ Downloding might raise HTTPError, if any of the image file, part of subset selec
 API
 =======
 
+Documentation
+-------------
+
 .. toctree::
    :maxdepth: 2
    
