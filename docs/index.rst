@@ -30,30 +30,27 @@ Links
  :align: center
  :target: https://MLEndDatasets.github.io/
 
-
+-------
 
 .. image:: https://readthedocs.org/projects/mlend/badge/?version=latest
-  :target: https://mlend.readthedocs.io/en/latest/
-  :alt: Documentation Status
+   :target: https://mlend.readthedocs.io/en/latest/
+   :alt: Documentation Status
 .. image:: https://img.shields.io/pypi/v/mlend
    :alt: PyPI - Version
 .. image:: https://static.pepy.tech/personalized-badge/mlend?period=total&units=international_system&left_color=black&right_color=blue&left_text=downloads
- :target: https://pepy.tech/project/mlend
+   :target: https://pepy.tech/project/mlend
 .. image:: https://img.shields.io/pypi/dm/mlend
-  :target: https://pypi.python.org/pypi/mlend
-  :alt: PyPI - Downloads
+   :target: https://pypi.python.org/pypi/mlend
+   :alt: PyPI - Downloads
 
-.. important::
-    
+.. important:
     Version: 1.0.0.2 | Released on 14 Nov 2023
-    
+
 
 :Authors:
     Nikesh Bajaj,
     Jesús Requena Carrión
 :Home: https://MLEndDatasets.github.io
-
-
 
 
 
