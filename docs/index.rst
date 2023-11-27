@@ -46,7 +46,7 @@ MLEnd Datasets - Documentation!
 
 
 Installation
------
+=====================
 
 **Requirement**:  numpy, matplotlib, scipy.stats, spkit
 
@@ -391,7 +391,7 @@ Documentation
 
 
 
-Contacts us:
+Contact us:
 ============
                         
 * **Jesús Requena Carrión**
