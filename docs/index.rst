@@ -26,8 +26,8 @@ MLEnd Datasets - Documentation!
 
 
 :Authors:
+    Jesús Requena Carrión,
     Nikesh Bajaj,
-    Jesús Requena Carrión
 :Home: https://MLEndDatasets.github.io
 
 
